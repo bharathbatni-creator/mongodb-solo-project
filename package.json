@@ -1,0 +1,25 @@
+{
+  "name": "mongodb-solo-project",
+  "version": "1.0.0",
+  "description": "MongoDB Solutions Consulting Solo Project - E-Commerce Analytics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bharathbatni-creator/mongodb-solo-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/bharathbatni-creator/mongodb-solo-project/issues"
+  },
+  "homepage": "https://github.com/bharathbatni-creator/mongodb-solo-project#readme",
+  "dependencies": {
+    "dotenv": "^18.0.8",
+    "mongodb": "^7.7.0"
+  }
+}
